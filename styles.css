@@ -26,6 +26,8 @@ body {
   height: 350px;
   background: #fff;
 }
+
+
 .box::before {
   content: "";
   position: absolute;
